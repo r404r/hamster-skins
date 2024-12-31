@@ -1,0 +1,192 @@
+IMG1:
+  rect:
+    x: 0
+    y: 0
+    width: 110
+    height: 80
+IMG2:
+  rect:
+    x: 130
+    y: 0
+    width: 110
+    height: 80
+IMG3:
+  rect:
+    x: 260
+    y: 0
+    width: 110
+    height: 80
+IMG4:
+  rect:
+    x: 390
+    y: 0
+    width: 110
+    height: 80
+IMG5:
+  rect:
+    x: 520
+    y: 0
+    width: 110
+    height: 80
+IMG6:
+  rect:
+    x: 650
+    y: 0
+    width: 110
+    height: 80
+IMG7:
+  rect:
+    x: 780
+    y: 0
+    width: 110
+    height: 80
+IMG8:
+  rect:
+    x: 0
+    y: 100
+    width: 110
+    height: 80
+IMG9:
+  rect:
+    x: 130
+    y: 100
+    width: 110
+    height: 80
+IMG10:
+  rect:
+    x: 260
+    y: 100
+    width: 80
+    height: 80
+IMG11:
+  rect:
+    x: 390
+    y: 100
+    width: 110
+    height: 80
+IMG12:
+  rect:
+    x: 520
+    y: 100
+    width: 110
+    height: 80
+IMG13:
+  rect:
+    x: 650
+    y: 100
+    width: 110
+    height: 80
+IMG14:
+  rect:
+    x: 780
+    y: 100
+    width: 80
+    height: 80
+IMG15:
+  rect:
+    x: 0
+    y: 200
+    width: 80
+    height: 80
+IMG16:
+  rect:
+    x: 100
+    y: 200
+    width: 110
+    height: 80
+IMG17:
+  rect:
+    x: 230
+    y: 200
+    width: 110
+    height: 80
+IMG18:
+  rect:
+    x: 360
+    y: 200
+    width: 80
+    height: 80
+IMG19:
+  rect:
+    x: 460
+    y: 200
+    width: 80
+    height: 80
+IMG20:
+  rect:
+    x: 560
+    y: 200
+    width: 110
+    height: 80
+IMG21:
+  rect:
+    x: 690
+    y: 200
+    width: 80
+    height: 80
+IMG22:
+  rect:
+    x: 790
+    y: 200
+    width: 80
+    height: 80
+IMG23:
+  rect:
+    x: 890
+    y: 200
+    width: 110
+    height: 80
+IMG24:
+  rect:
+    x: 0
+    y: 300
+    width: 110
+    height: 80
+IMG25:
+  rect:
+    x: 130
+    y: 300
+    width: 80
+    height: 80
+IMG26:
+  rect:
+    x: 230
+    y: 300
+    width: 110
+    height: 80
+IMG27:
+  rect:
+    x: 360
+    y: 300
+    width: 80
+    height: 80
+IMG28:
+  rect:
+    x: 460
+    y: 300
+    width: 80
+    height: 80
+IMG29:
+  rect:
+    x: 560
+    y: 300
+    width: 110
+    height: 80
+IMG30:
+  rect:
+    x: 690
+    y: 300
+    width: 80
+    height: 80
+IMG31:
+  rect:
+    x: 790
+    y: 300
+    width: 110
+    height: 80
+IMG32:
+  rect:
+    x: 920
+    y: 300
+    width: 80
+    height: 80

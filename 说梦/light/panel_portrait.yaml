@@ -1,0 +1,173 @@
+按键文字前景偏移: &o1
+  offset:
+    x: 0
+    y: 38
+
+按键图标前景偏移: &o2
+  center:
+    y: 0.4
+
+按键文字大小: &f1 12
+按键图标大小: &f2 16
+
+按键颜色: &c1 28212B
+键盘背景颜色: &c2 274170
+
+
+
+keyboard:
+  style: keyboardStyle
+  subviews:
+    - HStack:
+        subviews:
+          - Cell: HamsterButton
+          - Cell: SwitcherButton
+          - Cell: PhraseButton
+    - HStack:
+        subviews:
+          - Cell: HamsterSkinButton
+          - Cell: HamsterButton
+          - Cell: HamsterButton
+
+floatTargetScale: 0.6
+keyboardStyle:
+  insets: { top: 12, left: 12, bottom: 12, right: 12 }
+  backgroundStyle: keyboardBackgroundStyle
+
+keyboardBackgroundStyle:
+  type: original
+  # insets: { top: 16, left: 16, bottom: 16, right: 16 }
+  normalColor: *c2
+  cornerRadius: 15
+
+HamsterButton:
+  size:
+    height: 1/4
+  backgroundStyle: ButtonBackgroundStyle
+  foregroundStyle: 
+    - HamsterButtonForegroundStyle
+    - HamsterButtonForegroundStyle2
+  action: { openURL: "hamster://" }
+
+HamsterButtonForegroundStyle:
+  systemImageName: "keyboard"
+  fontSize: *f2
+  normalColor: *c1
+  highlightColor: *c1
+  <<: *o2
+
+HamsterButtonForegroundStyle2:
+  text: "仓"
+  fontSize: *f1
+  normalColor: *c1
+  highlightColor: *c1
+  <<: *o1
+
+SwitcherButton:
+  size:
+    height: 1/4
+  backgroundStyle: ButtonBackgroundStyle
+  foregroundStyle: 
+    - SwitcherButtonForegroundStyle
+    - SwitcherButtonForegroundStyle2
+  action: { shortcutCommand: "#RimeSwitcher" }
+
+SwitcherButtonForegroundStyle:
+  systemImageName: "switch.2"
+  fontSize: *f2
+  normalColor: *c1
+  highlightColor: *c1
+  <<: *o2
+
+SwitcherButtonForegroundStyle2:
+  text: "Switcher"
+  fontSize: *f1
+  normalColor: *c1
+  highlightColor: *c1
+  <<: *o1
+
+PhraseButton:
+  size:
+    height: 1/4
+  backgroundStyle: ButtonBackgroundStyle
+  foregroundStyle: 
+    - PhraseButtonForegroundStyle
+    - PhraseButtonForegroundStyle2
+  action: { shortcutCommand: "#showPhraseView" }
+
+PhraseButtonForegroundStyle:
+  systemImageName: "clipboard"
+  fontSize: *f2
+  normalColor: *c1
+  highlightColor: *c1
+  <<: *o2
+
+PhraseButtonForegroundStyle2:
+  text: "常用语"
+  fontSize: *f1
+  normalColor: *c1
+  highlightColor: *c1
+  <<: *o1
+
+HamsterSkinButton:
+  size:
+    height: 1/4
+  backgroundStyle: ButtonBackgroundStyle
+  foregroundStyle: 
+    - HamsterSkinButtonForegroundStyle
+    - HamsterSkinButtonForegroundStyle2
+  action: { openURL: "hamster://dev.fuxiao.app.hamster/keyboardSkins" }
+
+HamsterSkinButtonForegroundStyle:
+  systemImageName: "tshirt"
+  fontSize: *f2
+  normalColor: *c1
+  highlightColor: *c1
+  <<: *o2
+
+HamsterSkinButtonForegroundStyle2:
+  text: "皮肤设置"
+  fontSize: *f1
+  normalColor: *c1
+  highlightColor: *c1
+  <<: *o1
+
+# 按键背景
+ButtonBackgroundStyle:
+  animation: BackgroundAnimation
+  normalImage:
+    file: anjian
+    image: IMG38
+  highlightImage:
+    file: anjian
+    image: IMG39
+
+# 按键背景动画
+ButtonBackgroundAnimation:
+  # type: 动画类型
+  # - bounds: 尺寸大小变化动画
+  - type: bounds
+    duration: 60 # 动画时长，单位毫秒
+    repeatCount: 1
+    fromScale: 1
+    toScale: 0.87
+  - type: bounds
+    duration: 80
+    repeatCount: 1
+    fromScale: 0.87
+    toScale: 1
+
+# 按键前景动画
+ButtonForegroundAnimation:
+  # type: 动画类型
+  # - bounds: 尺寸大小变化动画
+  - type: bounds
+    duration: 60 # 动画时长，单位毫秒
+    repeatCount: 1
+    fromScale: 1
+    toScale: 0.82
+  - type: bounds
+    duration: 80
+    repeatCount: 1
+    fromScale: 0.82
+    toScale: 1

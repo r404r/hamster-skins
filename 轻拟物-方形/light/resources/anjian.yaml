@@ -1,0 +1,270 @@
+IMG1:
+  rect:
+    x: 0
+    y: 0
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG2:
+  rect:
+    x: 0
+    y: 200
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG3:
+  rect:
+    x: 120
+    y: 0
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG4:
+  rect:
+    x: 120
+    y: 200
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG5:
+  rect:
+    x: 240
+    y: 0
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG6:
+  rect:
+    x: 240
+    y: 200
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG7:
+  rect:
+    x: 360
+    y: 0
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG8:
+  rect:
+    x: 360
+    y: 200
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG9:
+  rect:
+    x: 480
+    y: 0
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG10:
+  rect:
+    x: 480
+    y: 200
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG11:
+  rect:
+    x: 600
+    y: 0
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG12:
+  rect:
+    x: 600
+    y: 200
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG13:
+  rect:
+    x: 0
+    y: 400
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG14:
+  rect:
+    x: 0
+    y: 600
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG15:
+  rect:
+    x: 120
+    y: 400
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG16:
+  rect:
+    x: 120
+    y: 600
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG17:
+  rect:
+    x: 240
+    y: 400
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG18:
+  rect:
+    x: 240
+    y: 600
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG19:
+  rect:
+    x: 360
+    y: 400
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG20:
+  rect:
+    x: 360
+    y: 600
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG21:
+  rect:
+    x: 480
+    y: 400
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG22:
+  rect:
+    x: 480
+    y: 600
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG23:
+  rect:
+    x: 600
+    y: 400
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG24:
+  rect:
+    x: 600
+    y: 600
+    width: 112
+    height: 143
+  insets:
+    top: 60
+    bottom: 77
+    left: 50
+    right: 56
+IMG25:
+  rect:
+    x: 900
+    y: 0
+    width: 40
+    height: 200

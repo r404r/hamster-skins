@@ -1,0 +1,504 @@
+IMG1:
+  rect:
+    x: 0
+    y: 0
+    width: 43
+    height: 51
+IMG2:
+  rect:
+    x: 43
+    y: 0
+    width: 43
+    height: 51
+IMG3:
+  rect:
+    x: 86
+    y: 0
+    width: 43
+    height: 51
+IMG4:
+  rect:
+    x: 129
+    y: 0
+    width: 43
+    height: 51
+IMG5:
+  rect:
+    x: 172
+    y: 0
+    width: 43
+    height: 51
+IMG6:
+  rect:
+    x: 215
+    y: 0
+    width: 43
+    height: 51
+IMG7:
+  rect:
+    x: 258
+    y: 0
+    width: 43
+    height: 51
+IMG8:
+  rect:
+    x: 301
+    y: 0
+    width: 43
+    height: 51
+IMG9:
+  rect:
+    x: 344
+    y: 0
+    width: 43
+    height: 51
+IMG10:
+  rect:
+    x: 387
+    y: 0
+    width: 43
+    height: 51
+IMG11:
+  rect:
+    x: 430
+    y: 0
+    width: 43
+    height: 51
+IMG12:
+  rect:
+    x: 473
+    y: 0
+    width: 43
+    height: 51
+IMG13:
+  rect:
+    x: 516
+    y: 0
+    width: 43
+    height: 51
+IMG14:
+  rect:
+    x: 559
+    y: 0
+    width: 43
+    height: 51
+IMG15:
+  rect:
+    x: 602
+    y: 0
+    width: 43
+    height: 51
+IMG16:
+  rect:
+    x: 645
+    y: 0
+    width: 43
+    height: 51
+IMG17:
+  rect:
+    x: 688
+    y: 0
+    width: 43
+    height: 51
+IMG18:
+  rect:
+    x: 731
+    y: 0
+    width: 43
+    height: 51
+IMG19:
+  rect:
+    x: 774
+    y: 0
+    width: 43
+    height: 51
+IMG20:
+  rect:
+    x: 817
+    y: 0
+    width: 43
+    height: 51
+IMG21:
+  rect:
+    x: 860
+    y: 0
+    width: 43
+    height: 51
+IMG22:
+  rect:
+    x: 903
+    y: 0
+    width: 43
+    height: 51
+IMG23:
+  rect:
+    x: 946
+    y: 0
+    width: 43
+    height: 51
+IMG24:
+  rect:
+    x: 989
+    y: 0
+    width: 43
+    height: 51
+IMG25:
+  rect:
+    x: 1032
+    y: 0
+    width: 43
+    height: 51
+IMG26:
+  rect:
+    x: 1075
+    y: 0
+    width: 43
+    height: 51
+IMG27:
+  rect:
+    x: 0
+    y: 51
+    width: 43
+    height: 61
+IMG28:
+  rect:
+    x: 43
+    y: 51
+    width: 43
+    height: 61
+IMG29:
+  rect:
+    x: 86
+    y: 51
+    width: 43
+    height: 61
+IMG30:
+  rect:
+    x: 129
+    y: 51
+    width: 43
+    height: 61
+IMG31:
+  rect:
+    x: 172
+    y: 51
+    width: 43
+    height: 61
+IMG32:
+  rect:
+    x: 215
+    y: 51
+    width: 43
+    height: 61
+IMG33:
+  rect:
+    x: 258
+    y: 51
+    width: 43
+    height: 61
+IMG34:
+  rect:
+    x: 301
+    y: 51
+    width: 43
+    height: 61
+IMG35:
+  rect:
+    x: 344
+    y: 51
+    width: 43
+    height: 61
+IMG36:
+  rect:
+    x: 387
+    y: 51
+    width: 43
+    height: 61
+IMG37:
+  rect:
+    x: 430
+    y: 51
+    width: 43
+    height: 61
+IMG38:
+  rect:
+    x: 473
+    y: 51
+    width: 43
+    height: 61
+IMG39:
+  rect:
+    x: 516
+    y: 51
+    width: 43
+    height: 61
+IMG40:
+  rect:
+    x: 559
+    y: 51
+    width: 43
+    height: 61
+IMG41:
+  rect:
+    x: 602
+    y: 51
+    width: 43
+    height: 61
+IMG42:
+  rect:
+    x: 645
+    y: 51
+    width: 43
+    height: 61
+IMG43:
+  rect:
+    x: 688
+    y: 51
+    width: 43
+    height: 61
+IMG44:
+  rect:
+    x: 731
+    y: 51
+    width: 43
+    height: 61
+IMG45:
+  rect:
+    x: 774
+    y: 51
+    width: 43
+    height: 61
+IMG46:
+  rect:
+    x: 817
+    y: 51
+    width: 43
+    height: 61
+IMG47:
+  rect:
+    x: 860
+    y: 51
+    width: 43
+    height: 61
+IMG48:
+  rect:
+    x: 903
+    y: 51
+    width: 43
+    height: 61
+IMG49:
+  rect:
+    x: 946
+    y: 51
+    width: 43
+    height: 61
+IMG50:
+  rect:
+    x: 989
+    y: 51
+    width: 43
+    height: 61
+IMG51:
+  rect:
+    x: 1032
+    y: 51
+    width: 43
+    height: 61
+IMG52:
+  rect:
+    x: 1075
+    y: 51
+    width: 43
+    height: 61
+IMG53:
+  rect:
+    x: 0
+    y: 112
+    width: 100
+    height: 51
+IMG54:
+  rect:
+    x: 100
+    y: 112
+    width: 100
+    height: 51
+IMG55:
+  rect:
+    x: 200
+    y: 112
+    width: 100
+    height: 51
+IMG56:
+  rect:
+    x: 300
+    y: 112
+    width: 100
+    height: 51
+IMG57:
+  rect:
+    x: 400
+    y: 112
+    width: 100
+    height: 51
+IMG58:
+  rect:
+    x: 500
+    y: 112
+    width: 123
+    height: 51
+IMG59:
+  rect:
+    x: 623
+    y: 112
+    width: 100
+    height: 51
+IMG60:
+  rect:
+    x: 723
+    y: 112
+    width: 123
+    height: 51
+IMG61:
+  rect:
+    x: 846
+    y: 112
+    width: 123
+    height: 51
+IMG62:
+  rect:
+    x: 0
+    y: 163
+    width: 43
+    height: 69
+IMG63:
+  rect:
+    x: 43
+    y: 163
+    width: 43
+    height: 69
+IMG64:
+  rect:
+    x: 86
+    y: 163
+    width: 43
+    height: 69
+IMG65:
+  rect:
+    x: 129
+    y: 163
+    width: 43
+    height: 69
+IMG66:
+  rect:
+    x: 172
+    y: 163
+    width: 43
+    height: 69
+IMG67:
+  rect:
+    x: 215
+    y: 163
+    width: 43
+    height: 69
+IMG68:
+  rect:
+    x: 258
+    y: 163
+    width: 43
+    height: 69
+IMG69:
+  rect:
+    x: 301
+    y: 163
+    width: 43
+    height: 69
+IMG70:
+  rect:
+    x: 344
+    y: 163
+    width: 43
+    height: 69
+IMG71:
+  rect:
+    x: 387
+    y: 163
+    width: 43
+    height: 69
+IMG72:
+  rect:
+    x: 430
+    y: 163
+    width: 43
+    height: 69
+IMG73:
+  rect:
+    x: 473
+    y: 163
+    width: 110
+    height: 69
+IMG74:
+  rect:
+    x: 583
+    y: 163
+    width: 110
+    height: 69
+IMG75:
+  rect:
+    x: 693
+    y: 163
+    width: 110
+    height: 69
+IMG76:
+  rect:
+    x: 0
+    y: 232
+    width: 83
+    height: 106
+IMG77:
+  rect:
+    x: 83
+    y: 232
+    width: 83
+    height: 106
+IMG78:
+  rect:
+    x: 166
+    y: 232
+    width: 83
+    height: 106
+IMG79:
+  rect:
+    x: 249
+    y: 232
+    width: 83
+    height: 106
+IMG80:
+  rect:
+    x: 332
+    y: 232
+    width: 83
+    height: 106
+IMG81:
+  rect:
+    x: 415
+    y: 232
+    width: 83
+    height: 106
+IMG82:
+  rect:
+    x: 498
+    y: 232
+    width: 83
+    height: 106
+IMG83:
+  rect:
+    x: 581
+    y: 232
+    width: 83
+    height: 106
+IMG84:
+  rect:
+    x: 664
+    y: 232
+    width: 83
+    height: 106

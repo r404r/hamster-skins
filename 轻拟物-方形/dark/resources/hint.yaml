@@ -1,0 +1,33 @@
+IMG1:
+  rect:
+    x: 0
+    y: 0
+    width: 110
+    height: 133
+  insets:
+    top: 0
+    bottom: 0
+    left: 52
+    right: 57
+IMG2:
+  rect:
+    x: 120
+    y: 0
+    width: 88
+    height: 110
+  insets:
+    top: 0
+    bottom: 0
+    left: 0
+    right: 0
+IMG3:
+  rect:
+    x: 150
+    y: 0
+    width: 120
+    height: 120
+  insets:
+    top: 30
+    bottom: 85
+    left: 27
+    right: 63
